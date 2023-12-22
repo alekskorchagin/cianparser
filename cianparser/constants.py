@@ -22,7 +22,7 @@ MAX_TOTAL_FLOOR = "&maxfloorn={}"
 
 HOUSE_MATERIAL_TYPE = "&house_material%5B0%5D={}"
 
-METRO_FOOT_MINUTE = "&foot_min={}"
+METRO_FOOT_MINUTE = "&only_foot=2&foot_min={}"
 METRO_ID = "&metro%5B0%5D={}"
 
 SORT_BY_PRICE_FROM_MIN_TO_MAX = "&sort=price_object_order"
